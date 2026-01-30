@@ -5,6 +5,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=10%20PYTHON%20AI%20LIBRARIES&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
+---
+<div align="center">
+  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-DC2626?style=for-the-badge&logo=apache&logoColor=white)
+  ![LightGBM](https://img.shields.io/badge/LightGBM-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+  
+</div>
 
 ---
 
