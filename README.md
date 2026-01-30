@@ -23,7 +23,9 @@
 
 ---
 
-#  Python AI/ML libraries
+#  Python AI/ML Libraries
+
+## EDA Python Libraries
 
 - 🔢 **NumPy** 👉 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) [🌐Official Website](https://numpy.org/) [📘 Documentation](https://numpy.org/doc/)
 
@@ -38,8 +40,11 @@
 
 
 - 📈 **Plotly** 👉 ![Plotly](https://img.shields.io/badge/Plotly-7C4DFF?style=for-the-badge&logo=plotly&logoColor=white) [🌐Official Website](https://plotly.com/)  [📘 Documentation](https://github.com/plotly/plotly.py)
-
   
+---
+
+## Machine Learning Python Libraries
+
 - 📊 **Scikit-Learn** 👉 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 [🌐Official Website](https://scikit-learn.org/)  [📘 Documentation](https://scikit-learn.org/stable/)
   
@@ -48,6 +53,10 @@
 
 - ⚡ **LightGBM** 👉 ![LightGBM](https://img.shields.io/badge/LightGBM-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)
 [🌐Official Website](https://lightgbm.readthedocs.io/en/stable/)  [📘 Documentation](https://lightgbm.readthedocs.io/en/stable/)
+
+---
+
+## Deep Learning Python Libraries 
 
 - 🧠 **TensorFlow** 👉 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 [🌐Official Website](https://www.tensorflow.org/)  [📘 Documentation](https://www.tensorflow.org/learn)
@@ -58,11 +67,17 @@
 - 🔥 **PyTorch** 👉 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 [🌐Official Website](https://pytorch.org/)  [📘 Documentation](https://docs.pytorch.org/)
 
+---
+
+## NLP & Transformers  Python Libraries 
+
 - 🤖 **Transformers (Hugging Face)** 👉 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 [🌐Official Website](https://huggingface.co/)  [📘 Documentation](https://huggingface.co/docs/transformers/en/index)
 
 - 🧩 **spaCy** 👉 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 [🌐Official Website](https://spacy.io/)  [📘 Documentation](https://github.com/explosion/spacy-layout)
+
+---
 
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
 
