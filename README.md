@@ -50,8 +50,37 @@
 
 A comprehensive Python AI/ML repository covering end-to-end workflows using TensorFlow, PyTorch, Keras, and Transformers for deep learning; NumPy and Pandas for data processing; Scikit-Learn for classical ML; XGBoost and LightGBM for high-performance tabular models; and spaCy for NLP pipelines.
 
----
+## 1.Transformers (Hugging Face)
+- The standard library for state-of-the-art NLP and multimodal models, supporting LLMs, fine-tuning, inference, and production APIs
 
+## 2. spaCy
+- An industrial-strength NLP library focused on fast, efficient pipelines for tokenization, NER, parsing, and information extraction.
+
+## 3. PyTorch
+- A flexible, research-friendly deep learning library popular for experimentation, rapid prototyping, and advanced AI research in CV, NLP, and GenAI.
+
+ ## 4. TensorFlow
+- An end-to-end deep learning framework used for large-scale training, distributed systems, and production-grade ML. Widely adopted in enterprises for scalable model deployment.
+
+## 5. Keras
+- A high-level neural network API (on top of TensorFlow) designed for simplicity and fast prototyping of deep learning models.
+
+## 6. Scikit-learn
+- The go-to library for classical machine learning, offering robust tools for classification, regression, clustering, and model evaluation.
+
+## 7. XGBoost
+- A powerful gradient boosting library optimized for speed and accuracy, widely used in competitions and real-world tabular data problems.
+
+## 8. LightGBM
+- A high-performance gradient boosting framework designed for large datasets with fast training and low memory usage.
+
+## 9. Pandas
+- Essential for data manipulation and analysis, enabling efficient handling of structured data, feature engineering, and preprocessing.
+
+## 10. NumPy
+- The foundation of scientific computing in Python, providing fast numerical arrays and tensor operations used by almost all ML libraries.
+
+  
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
