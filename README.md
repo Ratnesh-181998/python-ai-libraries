@@ -29,7 +29,7 @@
 
 - 🐼 **Pandas** 👉 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) [🌐Official Website](https://pandas.pydata.org/)  [📘 Documentation](https://pandas.pydata.org/docs/)
 
-- 📊 **Matplotlib** 👉 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F28E2B?style=for-the-badge&logo=python&logoColor=white) [🌐Official Website](https://matplotlib.org/)  [📘 Documentation](https://matplotlib.org/stable/users/index)
+- 📊 **Matplotlib** 👉 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=python&logoColor=white) [🌐Official Website](https://matplotlib.org/)  [📘 Documentation](https://matplotlib.org/stable/users/index)
   
  
 - 🧮 **SciPy**👉 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) [🌐Official Website](https://scipy.org/)  [📘 Documentation](https://docs.scipy.org/doc/scipy/)
