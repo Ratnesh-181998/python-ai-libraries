@@ -34,6 +34,8 @@
  
 - 🧮 **SciPy**👉 ![SciPy](https://img.shields.io/badge/SciPy-2962FF?style=for-the-badge&logo=scipy&logoColor=white) [🌐Official Website](https://scipy.org/)  [📘 Documentation](https://docs.scipy.org/doc/scipy/)
 
+- 🪄 **Seaborn** 👉 ![Seaborn](https://img.shields.io/badge/Seaborn-26A69A?style=for-the-badge&logo=python&logoColor=white) [🌐Official Website](https://seaborn.pydata.org/)  [📘 Documentation](https://github.com/mwaskom/seaborn)
+
 
 - 📈 **Plotly** 👉 ![Plotly](https://img.shields.io/badge/Plotly-7C4DFF?style=for-the-badge&logo=plotly&logoColor=white) [🌐Official Website](https://plotly.com/)  [📘 Documentation](https://github.com/plotly/plotly.py)
 
@@ -112,6 +114,9 @@ A comprehensive Python AI/ML repository covering end-to-end workflows using Tens
 
 ## 13. Plotly
 - An interactive visualization library for building rich, web-based charts and dashboards, widely used for data storytelling, analytics, and real-time visual insights.
+
+## 14. Seaborn
+- A high-level statistical data visualization library built on top of Matplotlib, designed for creating attractive, informative, and easy-to-use plots for data analysis and exploratory data visualization (EDA).
 
 ---
 
