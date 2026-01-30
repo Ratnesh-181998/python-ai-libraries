@@ -65,7 +65,7 @@
 
 A comprehensive Python AI/ML repository covering end-to-end workflows using TensorFlow, PyTorch, Keras, and Transformers for deep learning; NumPy and Pandas for data processing; Scikit-Learn for classical ML; XGBoost and LightGBM for high-performance tabular models; and spaCy for NLP pipelines.
 
-## 1.Transformers (Hugging Face)
+## 1.Transformers (Hugging Face) [Officail GitHuB](https://github.com/huggingface/transformers)
 - The standard library for state-of-the-art NLP and multimodal models, supporting LLMs, fine-tuning, inference, and production APIs
 
 ## 2. spaCy
