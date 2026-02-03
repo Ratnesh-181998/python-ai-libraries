@@ -77,6 +77,11 @@
 - 🧩 **spaCy** 👉 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 [🌐Official Website](https://spacy.io/)  [📘 Documentation](https://github.com/explosion/spacy-layout)
 
+## Deep Learning for Computer Vision 
+
+- **YOLO Algorithm** 👉 ![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-FFD21E?style=for-the-badge&logo=opencv&logoColor=black)
+[🌐Official Website](https://docs.ultralytics.com/)  [📘 Documentation](https://docs.ultralytics.com/solutions/)
+
 ---
 
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
