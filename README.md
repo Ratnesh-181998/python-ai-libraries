@@ -90,6 +90,10 @@
 
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
 
+<img width="992" height="761" alt="image" src="https://github.com/user-attachments/assets/fc4e290d-5796-4695-a25a-172a6c619e81" />
+
+<img width="813" height="1122" alt="image" src="https://github.com/user-attachments/assets/9dc41915-59eb-4193-8154-48803dc8ecf4" />
+
 ---
 
 # These libraries together cover the entire AI lifecycle — data processing → model building → optimization → deployment → NLP & GenAI → production systems.
