@@ -1,5 +1,5 @@
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=PYTHON%20AI%20ML%20LIBRARIES&fontSize=42&fontColor=ffffff&animation=fadeIn" />
@@ -21,7 +21,7 @@
   
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 #  Python AI/ML Libraries
 
@@ -41,7 +41,7 @@
 
 - 📈 **Plotly** 👉 ![Plotly](https://img.shields.io/badge/Plotly-7C4DFF?style=for-the-badge&logo=plotly&logoColor=white) [🌐Official Website](https://plotly.com/)  [📘 Documentation](https://github.com/plotly/plotly.py)
   
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## Machine Learning Python Libraries
 
@@ -54,7 +54,7 @@
 - ⚡ **LightGBM** 👉 ![LightGBM](https://img.shields.io/badge/LightGBM-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)
 [🌐Official Website](https://lightgbm.readthedocs.io/en/stable/)  [📘 Documentation](https://lightgbm.readthedocs.io/en/stable/)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## Deep Learning Python Libraries 
 
@@ -67,7 +67,7 @@
 - 🔥 **PyTorch** 👉 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 [🌐Official Website](https://pytorch.org/)  [📘 Documentation](https://docs.pytorch.org/)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## NLP & Transformers  Python Libraries 
 
@@ -86,11 +86,11 @@
 -   **CUDA** 👉 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) [🌐Official Website](https://developer.nvidia.com/cuda)  [📘 Documentation](https://developer.nvidia.com/cuda/toolkit)
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 #  Libraries
 
@@ -184,11 +184,11 @@ ________________________________________
 
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # These libraries together cover the entire AI lifecycle — data processing → model building → optimization → deployment → NLP & GenAI → production systems.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # Deep Learning for Computer Vision Library (Industry-Grade CV Stack : OpenCV + PyTorch + TorchVision + YOLO + Albumentations + ONNX + TensorRT )
 
@@ -210,6 +210,8 @@ ________________________________________
 | TensorRT | https://developer.nvidia.com/tensorrt | https://docs.nvidia.com/deeplearning/tensorrt/ |
 | OpenVINO | https://intel.com/openvino | https://docs.openvino.ai/ |
 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ### 👁️‍🗨️ Core Computer Vision Libraries 
 
@@ -306,7 +308,8 @@ ________________________________________
 - Isaac ROS – NVIDIA robotics CV stack
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 # Python AI Libraries
 
 A comprehensive Python AI/ML repository covering end-to-end workflows using TensorFlow, PyTorch, Keras, and Transformers for deep learning; NumPy and Pandas for data processing; Scikit-Learn for classical ML; XGBoost and LightGBM for high-performance tabular models; and spaCy for NLP pipelines.
